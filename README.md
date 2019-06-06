@@ -1,3 +1,6 @@
+To see the project, please visit: https://CCCCChloe.github.io/TodoList/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
